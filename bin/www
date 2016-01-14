@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+//declares the enviroment -- this runs it in node
 
 var app = require('../index');
 var mongo = require('../lib/mongo');
